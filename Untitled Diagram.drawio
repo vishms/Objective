@@ -1,1 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2021-09-12T02:09:28.546Z" agent="5.0 (Macintosh)" etag="d82sGsgettvov4_b8eIt" version="15.1.4" type="github"><diagram id="xKxz90VZoQwLQKjRWHu9" name="Page-1">7Vdbk5owFP41PuoIiK6PgqvtzLbjjA9tHyMEyGwgbAiK++t7AokSYNtdO91OO931kvOdk5PkXL7gyPHTastRnnxiIaYjexpWI2c9sm1ruXThSyJnhViuQmJOQoVdgT15xgqcKrQkIS4MQ8EYFSQ3wYBlGQ6EgSHO2ck0ixg1V81RjHvAPkC0j34hoUga9M5eXPEPmMSJXtmaLxtNirSxOkmRoJCdWpBzP3J8zphoRmnlYyqjp+PSzNu8oL1sjONMvGZCNY4edv4T9dH2eH9cb8NyT8fKyxHRUh14ZM8p+PNCcoRhLIf++jPYjOG9+rKHT5+yMtxwBusqY1i1Za/OK846iMUjFoGMxhS0OSOZqLPievCCTfvN2wVTXyIT2x0Ah7BFH7T6ZvBlDa3QBYewRR+0+mZS0rs2wSFs4fZ33J1tDcy2OrPh5XisFJRk2L/Uv4xxBLnxGWW8jr8D/xtZFF7MUUiwoVvO3PXGbunWhIMjwjLQZ4zLKvYiQmlrjrtypp4LeCE4e8QtTVT/yfJBRYJDtZ0j5oJATz2gA6Y7VhDl/sCEYGnLYEVJLBWC5YAiJQWwKwwLeIlIKciWOqFiC8vWsqo4uSQq8iYcEankPjxov1wq0yqWVDVBp2I24bhgJQ/wx0DuxwOxGZlWgaz3qK53XdztttM9BGfAVQtSbbjFLMWCn8FEaWeKEc5aVPKpRTAKSlrcojGkKC2+OL52PQxU47+BBBYDJNDpYJyFK8mmMhsUFQUJzHTgioivrfE3mYaJq6R1pbJSC+eWsMOcwCFkdmvsxeg2efo5k+HQ4PN+DlpBdgeCrDGOKRLkaN4CQ5FXK+wkq11T7CzNHM+tTvKa86hZbdbuOLKnpiNn3nEkEI+x6DmqC+Fy7Ntr4+41F4SGovpKaNXN/KlkWjEu6nZdgYE1y6ur8mYv9pCXNY5QSaWD1uXUuDSXOfAu8oJh93L79eN3Nj4t9GOPxpz+uTycoCOBqnnjbruNDP1R07DZvz2q7TJySsJQ+pAcSZ7R4UK05nW+HuzhH7JOlzYvz3JqEeNxaYhO4e6cGz2iueDWHtYmLIoK/Fu6avmfcf8axnXt92Vcve/3odwNysm/wii6q25nlD/BGCBefwQ25tff0s79dw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-12T02:10:24.689Z" agent="5.0 (Macintosh)" etag="O01ql5FdElfrcnztZndu" version="15.1.4" type="github">
+  <diagram id="xKxz90VZoQwLQKjRWHu9" name="Page-1">
+    <mxGraphModel dx="1995" dy="1155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="x-fLPCqlCaGvEvDGduSl-1" value="&lt;div&gt;CDN - AWS CloudFront&lt;/div&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cloudfront;" parent="1" vertex="1">
+          <mxGeometry x="40" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x-fLPCqlCaGvEvDGduSl-7" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="x-fLPCqlCaGvEvDGduSl-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="610" as="sourcePoint" />
+            <mxPoint x="200" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x-fLPCqlCaGvEvDGduSl-8" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Default &lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot; size=&quot;3&quot;&gt;Behaviour&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="x-fLPCqlCaGvEvDGduSl-7" vertex="1" connectable="0">
+          <mxGeometry x="0.26" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x-fLPCqlCaGvEvDGduSl-9" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="x-fLPCqlCaGvEvDGduSl-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="610" as="sourcePoint" />
+            <mxPoint x="200" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x-fLPCqlCaGvEvDGduSl-10" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;/api&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="x-fLPCqlCaGvEvDGduSl-9" vertex="1" connectable="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
